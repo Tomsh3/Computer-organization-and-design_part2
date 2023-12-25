@@ -1,0 +1,3 @@
+C:\Users\noyno\OneDrive\שולחן העבודה\Nir\מבנה המחשב\סימולטור\Sim\x64\Debug\Sim.exe
+C:\Users\noyno\OneDrive\שולחן העבודה\Nir\מבנה המחשב\פרויקט מבנה המחשב SIM\Simulator\Simulator\x64\Debug\sim.exe
+C:\Users\noyno\OneDrive\שולחן העבודה\Nir\מבנה המחשב\Project #2\sim\x64\Debug\sim.exe

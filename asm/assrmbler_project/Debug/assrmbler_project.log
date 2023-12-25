@@ -1,0 +1,4 @@
+﻿  output.c
+c:\users\tom\onedrive - mail.tau.ac.il\שולחן העבודה\לימודים\הנדסה - אונ' תל אביב\סימסטר ז\מבנה המחשב\לארגן\assembler\final version\assrmbler_project\assrmbler_project\assrmbler_project\output.c(116): warning C4013: 'get_line_by_pos' undefined; assuming extern returning int
+c:\users\tom\onedrive - mail.tau.ac.il\שולחן העבודה\לימודים\הנדסה - אונ' תל אביב\סימסטר ז\מבנה המחשב\לארגן\assembler\final version\assrmbler_project\assrmbler_project\assrmbler_project\output.c(116): warning C4047: 'initializing': 'Memory_Line_list *' differs in levels of indirection from 'int'
+  assrmbler_project.vcxproj -> C:\Users\Tom\OneDrive - mail.tau.ac.il\שולחן העבודה\לימודים\הנדסה - אונ' תל אביב\סימסטר ז\מבנה המחשב\לארגן\Assembler\FINAL VERSION\assrmbler_project\assrmbler_project\Debug\assrmbler_project.exe

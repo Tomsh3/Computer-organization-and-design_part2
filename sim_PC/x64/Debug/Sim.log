@@ -1,0 +1,3 @@
+﻿  simulator.c
+C:\Users\noyno\OneDrive\שולחן העבודה\Nir\מבנה המחשב\sim\simulator.c(326): warning C4715: 'execute': not all control paths return a value
+  Sim.vcxproj -> C:\Users\noyno\OneDrive\שולחן העבודה\Nir\מבנה המחשב\sim\x64\Debug\sim.exe
